@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jQuery" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+    </properties>
+    <CLASSES>
+      <root url="file://E:/JQUERY 脚本大全/jquery-2.0.0/jquery-2.0.0/jquery.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
